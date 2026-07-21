@@ -17,7 +17,6 @@ Const FLAT_PATTERN_OPTIONS As Integer = SheetMetalOptions_e.ExportBendLines + Sh
 
 
 Dim swApp As SldWorks.SldWorks
-Set swApp = Application.SldWorks
 
 
 Sub main()
